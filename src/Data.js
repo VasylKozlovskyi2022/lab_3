@@ -1,0 +1,58 @@
+let shopIteamData = [
+    {
+        id: 1, 
+        name: 'Blue',
+        price: 16.99,
+        desc: 'Lorem ipsum dolor sit amet consectetur.',
+        img: './photo/blue.png',
+    },
+    {
+        id: 2, 
+        name: 'Dark gray',
+        price: 13.99,
+        desc: 'Lorem ipsum dolor sit amet consectetur.',
+        img: './photo/dark gray.png',
+    },
+    {
+        id: 3, 
+        name: 'Green',
+        price: 19.99,
+        desc: 'Lorem ipsum dolor sit amet consectetur.',
+        img: './photo/green.png',
+    },
+    {
+        id: 4, 
+        name: 'Red',
+        price: 19.99,
+        desc: 'Lorem ipsum dolor sit amet consectetur.',
+        img: './photo/red.png',
+    },
+    {
+        id: 5, 
+        name: 'Light gray',
+        price: 12.99,
+        desc: 'Lorem ipsum dolor sit amet consectetur.',
+        img: './photo/light gray.png',
+    },
+    {
+        id: 6, 
+        name: 'Orange',
+        price: 17.99,
+        desc: 'Lorem ipsum dolor sit amet consectetur.',
+        img: './photo/orange.png',
+    },
+    {
+        id: 7, 
+        name: 'Purple',
+        price: 15.99,
+        desc: 'Lorem ipsum dolor sit amet consectetur.',
+        img: './photo/purple.png',
+    },
+    {
+        id: 8, 
+        name: 'Yellow',
+        price: 18.99,
+        desc: 'Lorem ipsum dolor sit amet consectetur.',
+        img: './photo/yellow.png',
+    },
+]
